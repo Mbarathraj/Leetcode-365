@@ -14,9 +14,8 @@ This challenge isn't just about solving problems — it's about building *discip
 
 | Day | Problem | Language | Solution Link |
 |-----|---------|----------|----------------|
-| 1   | [Distribute Candies Amoung Children II](https://leetcode.com/problems/distribute-candies-among-children-ii?envType=daily-question&envId=2025-06-01) | Java |[solution.java](./Day%20-%201%20-%20Distribute%20Candies%20Among%20Children%20II/solution.java)
- |
-| 2   | ...     | ...      | ...            |
+| 1   | [2929. Distribute Candies Amoung Children II](https://leetcode.com/problems/distribute-candies-among-children-ii?envType=daily-question&envId=2025-06-01) | Java |[solution.java](./Day%20-%201%20-%20Distribute%20Candies%20Among%20Children%20II/solution.java)|
+| 2   | [135. Candy](https://leetcode.com/problems/candy?envType=daily-question&envId=2025-06-02)     | Java     | [solution.java]           |
 | 3   | ...     | ...      | ...            |
 
 > 📌 Table will update every day with new solutions.
