@@ -14,7 +14,7 @@ This challenge isn't just about solving problems — it's about building *discip
 
 | Day | Problem | Language | Solution Link |
 |-----|---------|----------|----------------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Java | [solution.java](./Day01-Two-Sum/solution.java) |
+| 1   | [Distribute Candies Amoung Children II](https://leetcode.com/problems/distribute-candies-among-children-ii?envType=daily-question&envId=2025-06-01) | Java | [solution.java](./Day - 1 - Distribute Candies Amoung Children II) |
 | 2   | ...     | ...      | ...            |
 | 3   | ...     | ...      | ...            |
 
