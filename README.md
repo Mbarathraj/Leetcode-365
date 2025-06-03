@@ -47,7 +47,7 @@ Feel free to:
 
 ### 🙌 Let’s Connect
 
-I'm sharing daily posts on [LinkedIn](https://linkedin.com/in/yourprofile) as well.  
+I'm sharing daily posts on LinkedIn as well.  
 Join me, give feedback, or just follow along!
 
 > 💬 “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”
