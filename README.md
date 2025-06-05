@@ -18,6 +18,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 2   | [135. Candy](https://leetcode.com/problems/candy?envType=daily-question&envId=2025-06-02)     | Java     | [solution.java](./Day%20-%202%20-%20Candy/solution.java)         |
 | 3   | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes?envType=daily-question&envId=2025-06-03)   | Java      |[solution.java](./Day%20-%203%20-%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/solution.java)             |
 | 4   | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i?envType=daily-question&envId=2025-06-04)   | Java      |[solution.java](./Day%20-%204%20-%20Find%20the%20Lexicographically%20Largest%20String%20From%20the%20Box%20I/solution.java)             |
+| 5   | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string?envType=daily-question&envId=2025-06-05)   | Java      |[solution.java](./Day%20-%205%20-%20Lexicographically%20Smallest%20Equivalent%20String/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
