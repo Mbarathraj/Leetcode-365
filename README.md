@@ -21,6 +21,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 5   | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string?envType=daily-question&envId=2025-06-05)   | Java      |[solution.java](./Day%20-%205%20-%20Lexicographically%20Smallest%20Equivalent%20String/solution.java)             |
 | 6   | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string?envType=daily-question&envId=2025-06-06)   | Java      |[solution.java](./Day%20-%206%20-%20Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/solution.java)             |
 | 7   | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars?envType=daily-question&envId=2025-06-07)   | Java      |[solution.java](./Day%20-%207%20-%20Lexicographically%20Minimum%20String%20After%20Removing%20Stars/solution.java)             |
+| 8   | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers?envType=daily-question&envId=2025-06-08)   | Java      |[solution.java](./Day%20-%208%20-%20Lexicographical%20Numbers/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
