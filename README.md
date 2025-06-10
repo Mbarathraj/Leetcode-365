@@ -23,6 +23,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 7   | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars?envType=daily-question&envId=2025-06-07)   | Java      |[solution.java](./Day%20-%207%20-%20Lexicographically%20Minimum%20String%20After%20Removing%20Stars/solution.java)             |
 | 8   | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers?envType=daily-question&envId=2025-06-08)   | Java      |[solution.java](./Day%20-%208%20-%20Lexicographical%20Numbers/solution.java)             |
 | 9   | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order?envType=daily-question&envId=2025-06-09)   | Java      |[solution.java](./Day%20-%209%20-%20K-th%20Smallest%20in%20Lexicographical%20Order/solution.java)             |
+| 10   | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i?envType=daily-question&envId=2025-06-10)   | Java      |[solution.java](./Day%20-%2010%20-%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
