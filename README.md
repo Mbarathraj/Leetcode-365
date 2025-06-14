@@ -26,6 +26,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 10   | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i?envType=daily-question&envId=2025-06-10)   | Java      |[solution.java](./Day%20-%2010%20-%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I/solution.java)             |
 | 11   | [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii?envType=daily-question&envId=2025-06-11)   | Java      |[solution.java](./Day%20-%2011%20-%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20II/solution.java)             |
 | 12   | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array?envType=daily-question&envId=2025-06-12)   | Java      |[solution.java](./Day%20-%2012%20-%20Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array/solution.java)             |
+| 13   | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs?envType=daily-question&envId=2025-06-13)   | Java      |[solution.java](./Day%20-%2013%20-%20Minimize%20the%20Maximum%20Difference%20of%20Pairs/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
