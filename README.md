@@ -31,6 +31,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 15   | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer?envType=daily-question&envId=2025-06-15)   | Java      |[solution.java](./Day%20-%2015%20-%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer/solution.java)             |
 | 16   | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements?envType=daily-question&envId=2025-06-16)   | Java      |[solution.java](./Day%20-%2016%20-%20Maximum%20Difference%20Between%20Increasing%20Elements/solution.java)             |
 | 18   | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference?envType=daily-question&envId=2025-06-18)   | Java      |[solution.java](./Day%20-%2018%20-%20Divide%20Array%20Into%20Arrays%20With%20Max%20Difference/solution.java)             |
+| 19   | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k?envType=daily-question&envId=2025-06-19)   | Java      |[solution.java](./Day%20-%2019%20-%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
