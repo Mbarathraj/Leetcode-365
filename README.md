@@ -34,6 +34,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 19   | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k?envType=daily-question&envId=2025-06-19)   | Java      |[solution.java](./Day%20-%2019%20-%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/solution.java)             |
 | 20   | [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes?envType=daily-question&envId=2025-06-20)   | Java      |[solution.java](./Day%20-%2020%20-%20Maximum%20Manhattan%20Distance%20After%20K%20Changes/solution.java)             |
 | 21   | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special?envType=daily-question&envId=2025-06-21)   | Java      |[solution.java](./Day%20-%2021%20-%20Minimum%20Deletions%20to%20Make%20String%20K-Special/solution.java)             |
+| 22   | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers?envType=daily-question&envId=2025-06-23)   | Java      |[solution.java](./Day%20-%2022%20-%20Sum%20of%20k-Mirror%20Numbers/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
