@@ -38,6 +38,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 23   | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers?envType=daily-question&envId=2025-06-23)   | Java      |[solution.java](./Day%20-%2022%20-%20Sum%20of%20k-Mirror%20Numbers/solution.java)             |
 | 24   | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array?envType=daily-question&envId=2025-06-24)   | Java      |[solution.java](./Day%20-%2024%20-%20Find%20All%20K-Distant%20Indices%20in%20an%20Array/solution.java)             |
 | 26   | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k?envType=daily-question&envId=2025-06-26)   | Java      |[solution.java](./Day%20-%2026%20-%20Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K/solution.java)             |
+| 27   | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times?envType=daily-question&envId=2025-06-27)   | Java      |[solution.java](./Day%20-%2027%20-%20Longest%20Subsequence%20Repeated%20k%20Times/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
