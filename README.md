@@ -43,6 +43,8 @@ This challenge isn't just about solving problems — it's about building *discip
 | 29   | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition?envType=daily-question&envId=2025-06-29)   | Java      |[solution.java](./Day%20-%2029%20-%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/solution.java)             |
 | 30   | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence?envType=daily-question&envId=2025-06-30)   | Java      |[solution.java](./Day%20-%2030%20-%20Longest%20Harmonious%20Subsequence/solution.java)             |
 
+| 31   | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i?envType=daily-question&envId=2025-07-01)   | Java      |[solution.java](./Day%20-%2031-%20Find%20the%20Original%20Typed%20String%20I/solution.java)             |
+
 > 📌 Table will update every day with new solutions.
 
 ---
