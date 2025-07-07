@@ -44,6 +44,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 30   | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence?envType=daily-question&envId=2025-06-30)   | Java      |[solution.java](./Day%20-%2030%20-%20Longest%20Harmonious%20Subsequence/solution.java)             |
 | 31   | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i?envType=daily-question&envId=2025-07-01)   | Java      |[solution.java](./Day%20-%2031-%20Find%20the%20Original%20Typed%20String%20I/solution.java)             |
 | 32   | [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii?envType=daily-question&envId=2025-07-02)   | Java      |[solution.java](./Day%20-%2032-%20Find%20the%20Original%20Typed%20String%20II/solution.java)             |
+| 33   | [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i?envType=daily-question&envId=2025-07-03)   | Java      |[solution.java](./Day%20-%2033-%20Find%20the%20K-th%20Character%20in%20String%20Game%20I/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
