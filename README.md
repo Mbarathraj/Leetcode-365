@@ -49,6 +49,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 35   | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array?envType=daily-question&envId=2025-07-05)   | Java      |[solution.java](./Day%20-%2035-%20Find%20Lucky%20Integer%20in%20an%20Array/solution.java)             |
 | 36   | [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum?envType=daily-question&envId=2025-07-06)   | Java      |[solution.java](./Day%20-%2036-%20Finding%20Pairs%20With%20a%20Certain%20Sum/solution.java)             |
 | 37   | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended?envType=daily-question&envId=2025-07-07)   | Java      |[solution.java](./Day%20-%2037%20-%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/solution.java)             |
+| 39   | [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i?envType=daily-question&envId=2025-07-09)   | Java      |[solution.java](./Day%20-%2039%20-%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
