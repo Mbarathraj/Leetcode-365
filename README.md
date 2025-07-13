@@ -51,6 +51,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 37   | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended?envType=daily-question&envId=2025-07-07)   | Java      |[solution.java](./Day%20-%2037%20-%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/solution.java)             |
 | 39   | [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i?envType=daily-question&envId=2025-07-09)   | Java      |[solution.java](./Day%20-%2039%20-%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I/solution.java)             |
 | 40   | [3440. Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii?envType=daily-question&envId=2025-07-10)   | Java      |[solution.java](./Day%20-%2040%20-%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20II/solution.java)             |
+| 41   | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii?envType=daily-question&envId=2025-07-11)   | Java      |[solution.java](./Day%20-%2041%20-%20Meeting%20Rooms%20III/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
