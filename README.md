@@ -52,6 +52,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 39   | [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i?envType=daily-question&envId=2025-07-09)   | Java      |[solution.java](./Day%20-%2039%20-%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I/solution.java)             |
 | 40   | [3440. Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii?envType=daily-question&envId=2025-07-10)   | Java      |[solution.java](./Day%20-%2040%20-%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20II/solution.java)             |
 | 41   | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii?envType=daily-question&envId=2025-07-11)   | Java      |[solution.java](./Day%20-%2041%20-%20Meeting%20Rooms%20III/solution.java)             |
+| 42   | [1900. The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete?envType=daily-question&envId=2025-07-12)   | Java      |[solution.java](./Day%20-%2042%20-%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
