@@ -60,6 +60,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 47   | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii?envType=daily-question&envId=2025-07-17)   | Java      |[solution.java](./Day%20-%2047%20-%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20II/solution.java)             |
 | 48   | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements?envType=daily-question&envId=2025-07-18)   | Java      |[solution.java](./Day%20-%2048%20-%20Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements/solution.java)             |
 | 49   | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem?envType=daily-question&envId=2025-07-19)   | Java      |[solution.java](./Day%20-%2049%20-%20Remove%20Sub-Folders%20from%20the%20Filesystem/solution.java)             |
+| 51   | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string?envType=daily-question&envId=2025-07-21)   | Java      |[solution.java](./Day%20-%2051%20-%20Delete%20Characters%20to%20Make%20Fancy%20String/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
