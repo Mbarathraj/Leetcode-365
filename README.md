@@ -58,6 +58,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 45   | [3136. Valid Word](https://leetcode.com/problems/valid-word?envType=daily-question&envId=2025-07-15)   | Java      |[solution.java](./Day%20-%2045%20-%20Valid%20Word/solution.java)             |
 | 46   | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i?envType=daily-question&envId=2025-07-16)   | Java      |[solution.java](.Day%20-%2046%20-%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I/solution.java)             |
 | 47   | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii?envType=daily-question&envId=2025-07-17)   | Java      |[solution.java](./Day%20-%2047%20-%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20II/solution.java)             |
+| 48   | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements?envType=daily-question&envId=2025-07-18)   | Java      |[solution.java](./Day%20-%2048%20-%20Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
