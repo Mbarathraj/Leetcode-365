@@ -62,6 +62,7 @@ This challenge isn't just about solving problems — it's about building *discip
 | 49   | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem?envType=daily-question&envId=2025-07-19)   | Java      |[solution.java](./Day%20-%2049%20-%20Remove%20Sub-Folders%20from%20the%20Filesystem/solution.java)             |
 | 51   | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string?envType=daily-question&envId=2025-07-21)   | Java      |[solution.java](./Day%20-%2051%20-%20Delete%20Characters%20to%20Make%20Fancy%20String/solution.java)             |
 | 52   | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value?envType=daily-question&envId=2025-07-22)   | Java      |[solution.java](./Day%20-%2052%20-%20Maximum%20Erasure%20Value/solution.java)             |
+| 53   | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings?envType=daily-question&envId=2025-07-23)   | Java      |[solution.java](./Day%20-%2053%20-%20Maximum%20Score%20From%20Removing%20Substrings/solution.java)             |
 
 > 📌 Table will update every day with new solutions.
 
